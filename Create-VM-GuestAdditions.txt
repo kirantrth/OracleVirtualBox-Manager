@@ -4,3 +4,7 @@ The above link provides good explanation and detailed steps to create a virtual 
 
 If you follow the steps given in this video, then , you will be able to mount the shared drives i.e. you can mount any windows machine folder into your Virtual Machine. Also you can copy paste the data from the VM to your windows laptop/machine.
 
+1. Install Virtual Box Manager (version 7.0.4) from https://download.virtualbox.org/virtualbox/7.0.4/ (VirtualBox-7.0.4-154605-Win.exe)
+2. Download VBoxGuestAdditions_7.0.4.iso from https://download.virtualbox.org/virtualbox/7.0.4/
+3. Then follow steps from video.
+
