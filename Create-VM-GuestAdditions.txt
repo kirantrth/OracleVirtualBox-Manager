@@ -8,3 +8,9 @@ If you follow the steps given in this video, then , you will be able to mount th
 2. Download VBoxGuestAdditions_7.0.4.iso from https://download.virtualbox.org/virtualbox/7.0.4/
 3. Then follow steps from video.
 
+
+Also when you install a OS from .iso file, after installation is complete, when you log in and try to run sudo yum update commands, then if you observe the certificates related errors then, you need update lines in files present in folder '/etc/yum.repo.d/' , tyr commenting mirror link line and uncomment baseurl line. open file in sudo then only you will be able to save changes.
+
+
+But you follow steps in the above video, then no need of 'sudo yum update'. you can directly copy rpm packages from .iso file of OS and install the packages.
+Also you can copy the Guest Additions rpm packages from VBoxGuestAdditions_7.0.4.iso into new VM and install the Guest Additions. No internet connection required for this step. 
