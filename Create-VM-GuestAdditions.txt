@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=locu3265P8g    
+
+The above link provides good explanation and detailed steps to create a virtual VM along with Virtual Box Guest Additions (7.0.4)
+
+If you follow the steps given in this video, then , you will be able to mount the shared drives i.e. you can mount any windows machine folder into your Virtual Machine. Also you can copy paste the data from the VM to your windows laptop/machine.
+
